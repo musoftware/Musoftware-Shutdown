@@ -1,0 +1,19 @@
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware Shutdown\Musoftware Shutdown\bin\Debug\Musoftware Shutdown.exe
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware Shutdown\Musoftware Shutdown\bin\Debug\Musoftware Shutdown.pdb
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware Shutdown\Musoftware Shutdown\bin\Debug\Musoftware Shutdown.xml
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware Shutdown\Musoftware Shutdown\obj\Debug\Musoftware_Shutdown.Resources.resources
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware Shutdown\Musoftware Shutdown\obj\Debug\Musoftware Shutdown.vbproj.GenerateResource.Cache
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware Shutdown\Musoftware Shutdown\obj\Debug\Musoftware Shutdown.exe
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware Shutdown\Musoftware Shutdown\obj\Debug\Musoftware Shutdown.xml
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware Shutdown\Musoftware Shutdown\obj\Debug\Musoftware Shutdown.pdb
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware Shutdown\Musoftware Shutdown\obj\Debug\Musoftware_Shutdown.Frmmain.resources
+F:\123NewLive\Musoftware Shutdown\Musoftware Shutdown\obj\Debug\Musoftware Shutdown.exe
+F:\123NewLive\Musoftware Shutdown\Musoftware Shutdown\obj\Debug\Musoftware Shutdown.xml
+F:\123NewLive\Musoftware Shutdown\Musoftware Shutdown\obj\Debug\Musoftware Shutdown.pdb
+F:\123NewLive\Musoftware Shutdown\Musoftware Shutdown\bin\Debug\Musoftware Shutdown.exe
+F:\123NewLive\Musoftware Shutdown\Musoftware Shutdown\bin\Debug\Musoftware Shutdown.pdb
+F:\123NewLive\Musoftware Shutdown\Musoftware Shutdown\bin\Debug\Musoftware Shutdown.xml
+F:\123NewLive\Musoftware Shutdown\Musoftware Shutdown\obj\Debug\Musoftware_Shutdown.Frmmain.resources
+F:\123NewLive\Musoftware Shutdown\Musoftware Shutdown\obj\Debug\Musoftware_Shutdown.Resources.resources
+F:\123NewLive\Musoftware Shutdown\Musoftware Shutdown\obj\Debug\Musoftware Shutdown.vbproj.GenerateResource.Cache
+F:\123NewLive\Musoftware Shutdown\Musoftware Shutdown\bin\Debug\Musoftware Shutdown.exe.config
